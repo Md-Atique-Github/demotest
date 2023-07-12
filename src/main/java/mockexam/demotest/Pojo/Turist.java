@@ -29,6 +29,6 @@ public class Turist {
     private String emailAddress;
     private Date arrivalDate;
     private Date departureDate;
-    private Integer totalPrice;
+    // private Integer totalPrice;
     
 }
